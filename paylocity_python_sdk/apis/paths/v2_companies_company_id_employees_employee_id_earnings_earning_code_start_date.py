@@ -1,0 +1,9 @@
+from paylocity_python_sdk.paths.v2_companies_company_id_employees_employee_id_earnings_earning_code_start_date.get import ApiForget
+from paylocity_python_sdk.paths.v2_companies_company_id_employees_employee_id_earnings_earning_code_start_date.delete import ApiFordelete
+
+
+class V2CompaniesCompanyIdEmployeesEmployeeIdEarningsEarningCodeStartDate(
+    ApiForget,
+    ApiFordelete,
+):
+    pass
