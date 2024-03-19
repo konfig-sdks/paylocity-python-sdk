@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 [![Visit Paylocity](./header.png)](https://developer.paylocity.com)
 
